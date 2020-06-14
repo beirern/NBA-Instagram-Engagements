@@ -5,7 +5,7 @@ ML for predicting NBA Instagram Engagements
 In the summer of 2019 I applied with some friends to the NBA Hackathon.
 One of the prompts was to predict Instagram engagements based off of the description,
 engagements, followers, and the time of each post. At the time (summer 2019) we had 0 ML
-knowledge and we failed, don't worry though, we got the other prompt (NBA Offensive & Defensive Ratings repo)!
+knowledge and we failed, don't worry though, we got the other prompt ([NBA Offensive & Defensive Ratings repo](https://github.com/beirern/NBA-Play-By-Play-to-Offensive-Defensive-Ratings))!
 But now that I have taken a ML class I retried the prompt and this is the work.
 They gave us a `training_set.csv` which is for training and `holdout_set.csv` which is used to predict final engagements.
 
